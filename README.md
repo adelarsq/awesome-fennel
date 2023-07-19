@@ -1,5 +1,9 @@
 # Awesome Fennel
 
+> Fennel is a programming language that brings together the speed, simplicity, and reach of Lua with the flexibility of a lisp syntax and macro system.
+
+- [Home Page](https://fennel-lang.org)
+
 ## Articles
 
 - [How to write an awesome-wm config with Fennel](https://gist.github.com/christoph-frick/d3949076ffc8d23e9350d3ea3b6e00cb)
@@ -7,3 +11,7 @@
 ## Videos
 
 - [Primeiros passos com Fennel - Portuguese](https://www.youtube.com/watch?v=sLWhx3kuxVI&list=PL61kTUcYddBMCrnry2X1gTIguAGjeyHRZ)
+
+## Plugins
+
+- [Sweeter Neovim with Fennel](https://github.com/Olical/aniseed)
