@@ -14,4 +14,7 @@
 
 ## Plugins
 
-- [Sweeter Neovim with Fennel](https://github.com/Olical/aniseed)
+- [aniseed](https://github.com/Olical/aniseed) - Sweeter Neovim with Fennel
+- [nfnl](https://github.com/Olical/nfnl) - Enhance your Neovim with Fennel
+
+
