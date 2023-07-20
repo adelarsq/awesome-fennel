@@ -9,6 +9,7 @@
 ## Articles
 
 - [How to write an awesome-wm config with Fennel](https://gist.github.com/christoph-frick/d3949076ffc8d23e9350d3ea3b6e00cb)
+- [Why Fennel?](https://github.com/nyoom-engineering/nyoom.nvim/blob/main/docs/faq.md#why-fennel)
 
 ## Videos
 
