@@ -1,4 +1,7 @@
-# Awesome Fennel
+<h1 style="display: flex; align-items: center;">
+  Awesome Fennel
+  <img alt="fennel logo" src="https://github.com/adelarsq/awesome-fennel/assets/430272/64a40305-5195-4073-bfd3-f61d629d1279" style="width: 1.5em; height: 1.5em; margin-right: 0.5em;">
+</h1>
 
 > Fennel is a programming language that brings together the speed, simplicity, and reach of Lua with the flexibility of a lisp syntax and macro system.
 
