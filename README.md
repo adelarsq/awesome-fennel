@@ -29,15 +29,15 @@
 ### Neovim
 
 - [aniseed](https://github.com/Olical/aniseed) - Sweeter Neovim with Fennel
-- [rktjmp/hotpot.nvim](https://github.com/rktjmp/hotpot.nvim) - Fennel compiler plugin for Neovim
+- [hotpot.nvim](https://github.com/rktjmp/hotpot.nvim) - Fennel compiler plugin for Neovim
 - [nfnl](https://github.com/Olical/nfnl) - Enhance your Neovim with Fennel
 
 ### Sublime
 
-- [gbaptista/sublime-text-fennel](https://github.com/gbaptista/sublime-text-fennel)
+- [sublime-text-fennel](https://github.com/gbaptista/sublime-text-fennel)
 
 ## Libraries
 
-- [andreyorst/lazy-seq](https://github.com/andreyorst/lazy-seq) - Lazy sequences for Lua runtime, and functions to operate on those.
-- [andreyorst/async.fnl](https://gitlab.com/andreyorst/async.fnl) - ClojureScript core.async library port to the Fennel language and Lua runtime
+- [lazy-seq](https://github.com/andreyorst/lazy-seq) - Lazy sequences for Lua runtime, and functions to operate on those.
+- [async.fnl](https://gitlab.com/andreyorst/async.fnl) - ClojureScript core.async library port to the Fennel language and Lua runtime
 
