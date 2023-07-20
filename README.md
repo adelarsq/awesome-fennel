@@ -37,5 +37,5 @@
 ## Libraries
 
 - [andreyorst/lazy-seq](https://github.com/andreyorst/lazy-seq) - Lazy sequences for Lua runtime, and functions to operate on those.
-
+- [andreyorst/async.fnl](https://gitlab.com/andreyorst/async.fnl) - ClojureScript core.async library port to the Fennel language and Lua runtime
 
