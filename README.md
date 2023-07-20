@@ -18,6 +18,10 @@
 
 - [Primeiros passos com Fennel - Portuguese](https://www.youtube.com/watch?v=sLWhx3kuxVI&list=PL61kTUcYddBMCrnry2X1gTIguAGjeyHRZ)
 
+## Tools
+
+- [fnx](https://github.com/gbaptista/fnx) - A package manager for the Fennel language.
+
 ## Plugins
 
 ### Neovim
