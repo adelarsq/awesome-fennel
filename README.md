@@ -22,12 +22,14 @@
 
 - [fnx](https://github.com/gbaptista/fnx) - A package manager for the Fennel language.
 - [LilyPad](https://github.com/Lets-Learn-Lua/LilyPad) - helper tool to assist with using the Fennel programming language in Roblox Studio.
+- [Faith](https://git.sr.ht/~technomancy/faith) - The Fennel Advanced Interactive Test Helper
 
 ## Plugins
 
 ### Neovim
 
 - [aniseed](https://github.com/Olical/aniseed) - Sweeter Neovim with Fennel
+- [rktjmp/hotpot.nvim](https://github.com/rktjmp/hotpot.nvim) - Fennel compiler plugin for Neovim
 - [nfnl](https://github.com/Olical/nfnl) - Enhance your Neovim with Fennel
 
 ### Sublime
