@@ -20,7 +20,12 @@
 
 ## Plugins
 
+### Neovim
+
 - [aniseed](https://github.com/Olical/aniseed) - Sweeter Neovim with Fennel
 - [nfnl](https://github.com/Olical/nfnl) - Enhance your Neovim with Fennel
 
+### Sublime
+
+- [gbaptista/sublime-text-fennel](https://github.com/gbaptista/sublime-text-fennel)
 
