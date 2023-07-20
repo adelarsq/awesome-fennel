@@ -33,3 +33,8 @@
 
 - [gbaptista/sublime-text-fennel](https://github.com/gbaptista/sublime-text-fennel)
 
+## Libraries
+
+- [andreyorst/lazy-seq](https://github.com/andreyorst/lazy-seq) - Lazy sequences for Lua runtime, and functions to operate on those.
+
+
