@@ -21,6 +21,7 @@
 ## Tools
 
 - [fnx](https://github.com/gbaptista/fnx) - A package manager for the Fennel language.
+- [LilyPad](https://github.com/Lets-Learn-Lua/LilyPad) - helper tool to assist with using the Fennel programming language in Roblox Studio.
 
 ## Plugins
 
