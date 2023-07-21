@@ -18,6 +18,7 @@
 
 - [Primeiros passos com Fennel - Portuguese](https://www.youtube.com/watch?v=sLWhx3kuxVI&list=PL61kTUcYddBMCrnry2X1gTIguAGjeyHRZ)
 - [Configure Neovim In Lisp With Fennel](https://www.youtube.com/watch?v=VC1DhAoRSpg)
+- [Demo Fennel Lisp interactive programming with EXO_encounter 667](https://www.youtube.com/watch?v=Qqy9Gqgw6WY)
 
 ## Tools
 
