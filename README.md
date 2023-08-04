@@ -39,6 +39,7 @@
 - [hotpot.nvim](https://github.com/rktjmp/hotpot.nvim) - Fennel compiler plugin for Neovim
 - [nfnl](https://github.com/Olical/nfnl) - Enhance your Neovim with Fennel
 - [tangerine.nvim](https://github.com/udayvir-singh/tangerine.nvim) - Sweet Fennel integration for Neovim
+- [nvim-parinfer](https://github.com/gpanders/nvim-parinfer) - parinfer for Neovim
 
 ### Sublime
 
