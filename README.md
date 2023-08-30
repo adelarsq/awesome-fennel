@@ -24,6 +24,7 @@
 - [Primeiros passos com Fennel - Portuguese](https://www.youtube.com/watch?v=sLWhx3kuxVI&list=PL61kTUcYddBMCrnry2X1gTIguAGjeyHRZ)
 - [Configure Neovim In Lisp With Fennel](https://www.youtube.com/watch?v=VC1DhAoRSpg)
 - [Demo Fennel Lisp interactive programming with EXO_encounter 667](https://www.youtube.com/watch?v=Qqy9Gqgw6WY)
+- [A Tour of the Eighth Floor: Livecoding Music with Fennel and Renoise](https://www.youtube.com/watch?v=dcvPGdIbjlQ)
 
 ## Tools
 
