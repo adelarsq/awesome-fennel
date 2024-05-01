@@ -42,6 +42,7 @@
 - [nfnl](https://github.com/Olical/nfnl) - Enhance your Neovim with Fennel
 - [tangerine.nvim](https://github.com/udayvir-singh/tangerine.nvim) - Sweet Fennel integration for Neovim
 - [nvim-parinfer](https://github.com/gpanders/nvim-parinfer) - parinfer for Neovim
+- [gpanders/fennel-repl.nvim](https://github.com/gpanders/fennel-repl.nvim) - Fennel REPL that runs in Neovim
 
 ### Sublime
 
