@@ -49,6 +49,12 @@
 
 - [sublime-text-fennel](https://github.com/gbaptista/sublime-text-fennel)
 
+### VSCode
+
+- [fennel-ls](https://marketplace.visualstudio.com/items?itemName=adjuvant.fennel-ls)) - Fennel language server integration
+- [Fennel Syntax](https://marketplace.visualstudio.com/items?itemName=adjuvant.fennel-syntax) - Fennel language syntax highlighting - grammar only
+- [Lissy](https://marketplace.visualstudio.com/items?itemName=adjuvant.lissy) - Structural editing for Fennel
+
 ## Libraries
 
 - [lazy-seq](https://github.com/andreyorst/lazy-seq) - Lazy sequences for Lua runtime, and functions to operate on those.
