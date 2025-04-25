@@ -19,6 +19,7 @@
 - [Why Fennel?](https://github.com/nyoom-engineering/nyoom.nvim/blob/main/docs/faq.md#why-fennel)
 - [Enhance your Neovim with Fennel](https://russtoku.github.io/posts/nfnl-experience.html)
 - [A Tour of the Lisps](https://www.fosskers.ca/en/blog/rounds-of-lisp)
+- [Getting Started Writing a Game with Fennel and LÖVE](https://itch.io/jam/spring-lisp-game-jam-2024/topic/3728933/getting-started-writing-a-game-with-fennel-and-lve)
 
 ## Videos
 
