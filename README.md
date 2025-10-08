@@ -15,6 +15,7 @@
 
 ## Articles
 
+- [Neovim Plugin Development introduction articles by Laurence Chen](https://github.com/humorless/fennel-fp-neovim)
 - [How to write an awesome-wm config with Fennel](https://gist.github.com/christoph-frick/d3949076ffc8d23e9350d3ea3b6e00cb)
 - [Why Fennel?](https://github.com/nyoom-engineering/nyoom.nvim/blob/main/docs/faq.md#why-fennel)
 - [Enhance your Neovim with Fennel](https://russtoku.github.io/posts/nfnl-experience.html)
