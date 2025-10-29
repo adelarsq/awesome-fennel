@@ -21,6 +21,7 @@
 - [Enhance your Neovim with Fennel](https://russtoku.github.io/posts/nfnl-experience.html)
 - [A Tour of the Lisps](https://www.fosskers.ca/en/blog/rounds-of-lisp)
 - [Getting Started Writing a Game with Fennel and LÖVE](https://itch.io/jam/spring-lisp-game-jam-2024/topic/3728933/getting-started-writing-a-game-with-fennel-and-lve)
+- [Packing Neovim with Fennel](https://www.jonashietala.se/blog/2025/10/29/packing_neovim_with_fennel/)
 
 ## Videos
 
