@@ -53,7 +53,7 @@
 
 ### VSCode
 
-- [fennel-ls](https://marketplace.visualstudio.com/items?itemName=adjuvant.fennel-ls)) - Fennel language server integration
+- [fennel-ls](https://marketplace.visualstudio.com/items?itemName=adjuvant.fennel-ls) - Fennel language server integration
 - [Fennel Syntax](https://marketplace.visualstudio.com/items?itemName=adjuvant.fennel-syntax) - Fennel language syntax highlighting - grammar only
 - [Lissy](https://marketplace.visualstudio.com/items?itemName=adjuvant.lissy) - Structural editing for Fennel
 
