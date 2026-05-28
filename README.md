@@ -65,4 +65,8 @@
 ## Games
 
 - [Hex editor in 130 lines](https://www.reddit.com/r/love2d/comments/1k6zksi/updating_the_examples_in_my_libhex_library_today/)
+- [Loria - Minetest subgame](https://github.com/rzrn/loria)
+- [GodotFennelReversi - Reversi game made with Godot 4.6 and Fennel language](https://github.com/funatsufumiya/GodotFennelReversi)
+- [spirited - The adventure of Spirit and Ed in the duo-world of The Dark Side and The Light Side](https://codeberg.org/dawranliou/spirited)
+
 
